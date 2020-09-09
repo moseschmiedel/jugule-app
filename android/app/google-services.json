@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210814921880",
+    "firebase_url": "https://jugule-kalendar.firebaseio.com",
+    "project_id": "jugule-kalendar",
+    "storage_bucket": "jugule-kalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210814921880:android:40a68cb2ce7de510",
+        "android_client_info": {
+          "package_name": "com.moseschmiedel.jugule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210814921880-5qajmbce3u572gq4hnoc35qdr8geosd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcfWc_ziVZ6p7Rilbq6pzh5UzvFhuS9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210814921880-5qajmbce3u572gq4hnoc35qdr8geosd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
