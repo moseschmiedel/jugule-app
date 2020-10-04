@@ -14,10 +14,10 @@ You are allowed to do with this code whatever the GPLv2 permits.
 ### Setting up for development
 - First install [flutter](https://flutter.dev) and it's dependencies.
 - Next clone this repository with:
-  '''bash
+  ```sh
   $ git clone https://gitlab.com/moseschmiedel/jugule.git
-  '''
+  ```
 - Finally open the application in your favourite text-editor and run the app with:
-  '''bash
+  ```sh
   $ flutter run
-  '''
+  ```
